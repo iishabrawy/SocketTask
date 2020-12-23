@@ -1,0 +1,64 @@
+PODS:
+  - Alamofire (5.2.2)
+  - DynamicBlurView (4.1.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Kingfisher (5.15.5):
+    - Kingfisher/Core (= 5.15.5)
+  - Kingfisher/Core (5.15.5)
+  - MBProgressHUD (1.2.0)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - MBProgressHUD
+  - PopupDialog
+  - RxCocoa
+  - RxSwift
+  - Socket.IO-Client-Swift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DynamicBlurView
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MBProgressHUD
+    - PopupDialog
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Kingfisher: e3ec347a5ab8817b7585ef46923a2d2b9a7d8fbe
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 577b182674b220d343712a4dca95e06510aaecdf
+
+COCOAPODS: 1.10.0
